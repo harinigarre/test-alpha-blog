@@ -40,15 +40,24 @@ $navbar-default-bg: #000;
     border-color:black;
 }
 .article-actions{
-    border-top:1px solid #777;
-    padding-top:15px;
+    border-top:1px solid #e8e8e8;
+    padding-top:5px;
 }
 .description{
     margin-top:0;
 }
+.article-title{
+    font-weight:bold;
+    font-size:20px;
+}
+.article-body{
+    border-top:1px solid #e8e8e8;
+    padding-top:15px;
+    padding-bottom:15px;
+}
 .footer{
     margin-top:45px;
-    border-top: 1px solid #777;
+    border-top: 1px solid #e8e8e8;
     padding-top: 5px;
     color: #777;
 }
