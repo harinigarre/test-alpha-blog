@@ -3,6 +3,10 @@ $navbar-default-bg: #000;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
 #logo{
     float: left;
     font-size: 25px;
